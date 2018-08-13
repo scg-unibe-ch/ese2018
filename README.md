@@ -2,6 +2,24 @@
 This repository contains important material (presentations, project description, schedule) to get started with the project.
 ---
 
+## General information
+
+* [ESE course page](http://scg.unibe.ch/teaching/ese)
+* Use <a href="https://piazza.com/unibe.ch/fall2017/ese2017/home">Piazza</a> to ask questions and get answers.
+
+The goal of project in the course "Introduction to Software Engineering (ESE)" is to offer a concrete and practical contact with the phases, techniques, and artefacts of an iterative and incremental software development process.
+
+The lecture builds upon knowledge acquired in P1 and P2:
+
+* P1 was about programming: what is a programming language and what is a program
+* [P2](http://scg.unibe.ch/teaching/p2) was about development: how can we design a solution which follows the state of the art and what are the best programming practices?
+* [ESE](http://scg.unibe.ch/teaching/ese) is about software engineering: how can we work in a team to deliver products which meet customer’s expectations
+
+During the project, a concrete software is created through teamwork and it needs to be delivered as a product at the end of the semester — and this is really fun and cool :)
+
+The final grade will be composed from 60% exam + 40% project.
+
+
 # Project 
 
 This year we will build a '*Job Portal*' as a web application where external companies can post their job offers, and university students can apply subsequently to those job postings. We, the course assitants (total 4) will act as **clients** and students will act as **developers**. 

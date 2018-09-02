@@ -26,6 +26,10 @@ This year we will build a '*Job Portal*' as a web application where external com
 
 # Project organization
 
-Sstudents/participants will be divided into small groups (each group will have roughly 3-4 students). Each group will build the software independently. One student from each group will act as a Product Owner (PO), to which we will release the requirements. PO will then describe the reqirements to his/her fellow developers.
+Students/participants will be divided into small groups (each group will have roughly 3-4 students). Each group will build the software independently. One student from each group will act as a Product Owner (PO), to which we will release the requirements. PO will then describe the reqirements to his/her fellow developers.
 
-The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. For the next 8 weeks, every 2 weeks we will release requirements for one feature. As a result, total 5 features will be built at the end of the project. 
+The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones, at each milestone we will evaluate and retrospect the progress made. Total 8 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
+
+# Technologies
+
+The web application will be built as a REST API serving JSON data, and an independant frontend that consumes and displays JSON data. For the frontend of the application we will be using [Angular](https://angular.io/) version 6 and [Angular Material](https://material.angular.io/) for styling. For the REST API backend we will be using [Express](https://expressjs.com/). A project scaffolding for the project and how to use it can be found [here (put scaffolding link here)]().

@@ -32,4 +32,4 @@ The total duration for the project is 12 weeks. First 4 weeks will be given to l
 
 # Technologies
 
-The web application will be built as a REST API serving JSON data, and an independant frontend that consumes and displays JSON data. For the frontend of the application we will be using [Angular](https://angular.io/) version 6 and [Angular Material](https://material.angular.io/) for styling. For the REST API backend we will be using [Express](https://expressjs.com/). A project scaffolding for the project and how to use it can be found [here (put scaffolding link here)]().
+The web application will be built as a REST API serving JSON data, and an independant frontend that consumes and displays JSON data. For the frontend of the application we will be using [Angular](https://angular.io/) version 6 and [Angular Material](https://material.angular.io/) for styling. For the REST API backend we will be using [Express](https://expressjs.com/). A project scaffolding for the project and how to use it can be found [here](https://github.com/SilasBerger/ESE-2018-Scaffolding).

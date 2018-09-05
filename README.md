@@ -30,6 +30,7 @@ Students/participants will be divided into small groups (each group will have ro
 
 The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones (see [wiki](https://github.com/scg-unibe-ch/ese2018/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 8 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
 
-# Technologies
+# Further information
+Refer [project wiki](https://github.com/scg-unibe-ch/ese2018/wiki) for further information about technologies used, useful presentations, and getting started guide.
 
-The web application will be built as a REST API serving JSON data, and an independant frontend that consumes and displays JSON data. For the frontend of the application we will be using [Angular](https://angular.io/) version 6 and [Angular Material](https://material.angular.io/) for styling. For the REST API backend we will be using [Express](https://expressjs.com/). A project scaffolding for the project and how to use it can be found [here](https://github.com/SilasBerger/ESE-2018-Scaffolding).
+

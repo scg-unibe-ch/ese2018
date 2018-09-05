@@ -28,7 +28,7 @@ This year we will build a '*Job Portal*' as a web application where external com
 
 Students/participants will be divided into small groups (each group will have roughly 3-4 students). Each group will build the software independently. One student from each group will act as a Product Owner (PO), to which we will release the requirements. PO will then describe the reqirements to his/her fellow developers.
 
-The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones, at each milestone we will evaluate and retrospect the progress made. Total 8 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
+The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones (see [wiki](https://github.com/scg-unibe-ch/ese2018/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 8 features will be built by students, out of which one will be a surprise feature by students. The team with best surprise feature will win a gift from us!
 
 # Technologies
 

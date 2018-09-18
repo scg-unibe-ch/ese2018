@@ -5,7 +5,7 @@ This repository contains important material (presentations, project description,
 ## General information
 
 * [ESE course page](http://scg.unibe.ch/teaching/ese)
-* Use <a href="https://piazza.com/unibe.ch/fall2017/ese2017/home">Piazza</a> to ask questions and get answers.
+* Use <a href="piazza.com/unibe.ch/fall2018/ese2018/home">Piazza</a> to ask questions and get answers.
 
 The goal of project in the course "Introduction to Software Engineering (ESE)" is to offer a concrete and practical contact with the phases, techniques, and artefacts of an iterative and incremental software development process.
 

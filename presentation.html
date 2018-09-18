@@ -1,0 +1,127 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/white.css">
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+    <link rel="stylesheet" href="css/pocketgrid.min.css">
+    <style type="text/css">.half {
+        width: 50%
+    }</style>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section><h1>HTML + CSS </h1></section>
+        <section>
+            <h1>About</h1>
+            <p>HTML stands for <strong>H</strong>yper<strong>t</strong>ext <strong>M</strong>arkup <strong>L</strong>anguage.</p>
+            <p>It defines the structure of a website using markup tags. An html file must have an htm or html file extension.</p>
+            <p>Different versions of html exist. This tutorial only considers HTML5.</p>
+        </section>
+        <section>
+            <h1>HTML tags</h1>
+            <p>Tags are used to markup html elements.</p>
+            <p>Tags are opened with <strong>&lt;</strong> and closed with </p>
+        </section>
+        <section>
+            <h1>Basic structure</h1>
+            <section>
+                <div class="block-group">
+                    <div class="block half">
+                        <dl>
+                            <dt>head</dt>
+                            <dt>title</dt>
+                            <dd>Title shown in the browser tab.</dd>
+                        </dl>
+                    </div>
+                    <div class="block half">
+                <pre><code>
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;Title&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    This text will be displayed.
+    &lt;/body&gt;
+&lt;/html&gt;
+                </code></pre>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <section>
+            <h2>Lists</h2>
+            <div class="block-group">
+                <div class="block half">
+                    <ol>
+                        <li>Apple</li>
+                        <li>Banane</li>
+                        <li>Pineapple</li>
+                    </ol>
+                    </div>
+                    <div class="block half">
+            <pre><code>
+&lt;ol&gt;
+    &lt;li&gt;Numbered item&lt;/li&gt;
+    &lt;li&gt;Numbered item&lt;/li&gt;
+    &lt;li&gt;Numbered item&lt;/li&gt;
+&lt;/ol&gt;
+        </code></pre>
+                </div>
+            </div>
+        </section>
+        <section>Structure</section>
+        <section>Structure</section>
+    </div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
+<script>
+    Reveal.initialize({
+        dependencies: [
+            // Cross-browser shim that fully implements classList - https://github.com/eligrey/classList.js/
+            {
+                src: 'lib/js/classList.js', condition: function () {
+                    return !document.body.classList;
+                }
+            },
+
+            // Interpret Markdown in <section> elements
+            {
+                src: 'plugin/markdown/marked.js', condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            },
+            {
+                src: 'plugin/markdown/markdown.js', condition: function () {
+                    return !!document.querySelector('[data-markdown]');
+                }
+            },
+
+            // Syntax highlight for <code> elements
+            {
+                src: 'plugin/highlight/highlight.js', async: true, callback: function () {
+                    hljs.initHighlightingOnLoad();
+                }
+            },
+
+            // Zoom in and out with Alt+click
+            {
+                src: 'plugin/zoom-js/zoom.js', async: true, condition: function () {
+                    return !!document.body.classList;
+                }
+            },
+
+            // Speaker notes
+            {
+                src: 'plugin/notes/notes.js', async: true, condition: function () {
+                    return !!document.body.classList;
+                }
+            }
+
+        ]
+    });
+</script>
+</body>
+</html>

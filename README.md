@@ -19,6 +19,7 @@ During the project, a concrete software is created through teamwork and it needs
 
 The final grade will be composed from 60% exam + 40% project.
 
+[Register for the course through the form](https://docs.google.com/forms/d/e/1FAIpQLSd0kGJ89MEHwyKyWV3g4Rl6abC-RxwXnK5wmnEjWkVHZdMiLg/viewform?usp=sf_link) and register on [Piazza](https://piazza.com/) **until Sunday night, 23.09.2018**.
 
 # Project 
 
